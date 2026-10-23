@@ -12,6 +12,7 @@ cask "punchlist" do
     strategy :github_latest
   end
 
+  auto_updates true
   depends_on formula: "gh"
   depends_on macos: :golden_gate
 
