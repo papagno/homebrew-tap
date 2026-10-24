@@ -1,6 +1,6 @@
 cask "punchlist" do
-  version "0.2.0"
-  sha256 "8501fd43d848749fd4a6a87c8e5069e7b05224fe6a6535e29f6510ff292dfb01"
+  version "0.3.0"
+  sha256 "ddc71aef2956e158f654b355d361883e00e90ab98337d3f457bb6901398bf705"
 
   url "https://github.com/papagno/punchlist/releases/download/v#{version}/Punchlist-#{version}.zip"
   name "Punchlist"
