@@ -1,6 +1,6 @@
 cask "fuel-gauge" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "0.1.0"
+  sha256 "80e4228638915314adf56c9d0268d218a31219e8ab961db63abb94670a1753a0"
 
   url "https://github.com/papagno/fuel-gauge/releases/download/v#{version}/FuelGauge-#{version}.zip"
   name "Fuel Gauge"
